@@ -1,5 +1,8 @@
 # 30 days of Tech with Projects Series
 
+[System Design Template](https://medium.com/coders-mojo/day-3-of-system-design-case-studies-series-875df4b766b9?sk=1133c9135f849f4497400a6b9caf5c2e)
+
+[Complete System Design Case Studies](https://medium.com/coders-mojo/day-1-of-system-design-case-studies-series-b3c3fecae079?sk=ee7333918f135e06eb3a9b9434d35696) 
 
 [Complete 60 Days of Data Science and Machine Learning Series ](https://medium.com/coders-mojo/day-1-day-60-quick-recap-of-60-days-of-data-science-and-ml-6fc021643d1?sk=4e75e043b7630a9f963562ebac94e129)
 
