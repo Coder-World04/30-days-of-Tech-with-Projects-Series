@@ -73,7 +73,7 @@ Leverage data to build products that deliver the right experiences, to the right
 
 5. Complete Natural Language Processing : https://bit.ly/3T7J8qY
 
-Build models on real data, and get hands-on experience with sentiment analysis, machine translation, and more.
+Build models on real data, and get hands-on experience with sentiment analysis, machine translation, and more .
 
 ------
 
