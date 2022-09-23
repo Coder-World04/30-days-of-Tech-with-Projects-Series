@@ -61,7 +61,7 @@ Learn to design data models, build data warehouses and data lakes, automate data
 
 3. Complete Machine Learning Engineer : https://bit.ly/3Tir8ub
 
-Learn advanced machine learning techniques and algorithms - including how to package and deploy your models to a production environment.
+Learn advanced machine learning techniques and algorithms -  including how to package and deploy your models to a production environment.
 
 -----
 
