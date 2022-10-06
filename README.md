@@ -53,7 +53,7 @@ Learn to run data pipelines, design experiments, build recommendation systems, a
 
 ----
 
-2. Complete Data Engineering : https://bit.ly/3A9oVs5
+2. Complete Data Engineering: https://bit.ly/3A9oVs5
 
 Learn to design data models, build data warehouses and data lakes, automate data pipelines, and work with massive datasets
 
