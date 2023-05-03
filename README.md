@@ -63,7 +63,7 @@ Learn to design data models, build data warehouses and data lakes,automate data 
 
 Learn advanced machine learning techniques and algorithms -  including how to package and deploy your models to a production environment.
 
------
+------
 
 4. Complete Data Product Manager : https://bit.ly/3QGUtwi
 
