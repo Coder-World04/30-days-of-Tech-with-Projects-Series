@@ -1,5 +1,7 @@
 # 30 days of Tech with Projects Series
 
+Youtube for all the implemented projects and tech interview resources - [Ignito Youtube Channel](https://www.youtube.com/@ignito5917/about)
+
 [System Design Template](https://medium.com/coders-mojo/day-3-of-system-design-case-studies-series-875df4b766b9?sk=1133c9135f849f4497400a6b9caf5c2e)
 
 [Complete System Design Case Studies](https://medium.com/coders-mojo/day-1-of-system-design-case-studies-series-b3c3fecae079?sk=ee7333918f135e06eb3a9b9434d35696) 
